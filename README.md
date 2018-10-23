@@ -136,8 +136,5 @@ See [CONTRIBUTING.md](https://www.github.com/OpenGov/react-leaflet-heatmap-layer
 
 This package was inspired by [Leaflet.heat](https://github.com/Leaflet/Leaflet.heat).
 
-## License
-
-`react-leaflet-heatmap-layer` is MIT licensed.
 
 See [LICENSE.md](https://www.github.com/OpenGov/react-leaflet-heatmap-layer/blob/master/LICENSE.md) for details.
